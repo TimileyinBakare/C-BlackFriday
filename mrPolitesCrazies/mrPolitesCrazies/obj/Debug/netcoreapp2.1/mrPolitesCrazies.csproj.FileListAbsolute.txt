@@ -1,0 +1,11 @@
+C:\Users\Dell Latitude E7270\source\repos\mrPolitesCrazies\mrPolitesCrazies\bin\Debug\netcoreapp2.1\mrPolitesCrazies.deps.json
+C:\Users\Dell Latitude E7270\source\repos\mrPolitesCrazies\mrPolitesCrazies\bin\Debug\netcoreapp2.1\mrPolitesCrazies.runtimeconfig.json
+C:\Users\Dell Latitude E7270\source\repos\mrPolitesCrazies\mrPolitesCrazies\bin\Debug\netcoreapp2.1\mrPolitesCrazies.runtimeconfig.dev.json
+C:\Users\Dell Latitude E7270\source\repos\mrPolitesCrazies\mrPolitesCrazies\bin\Debug\netcoreapp2.1\mrPolitesCrazies.dll
+C:\Users\Dell Latitude E7270\source\repos\mrPolitesCrazies\mrPolitesCrazies\bin\Debug\netcoreapp2.1\mrPolitesCrazies.pdb
+C:\Users\Dell Latitude E7270\source\repos\mrPolitesCrazies\mrPolitesCrazies\obj\Debug\netcoreapp2.1\mrPolitesCrazies.csprojAssemblyReference.cache
+C:\Users\Dell Latitude E7270\source\repos\mrPolitesCrazies\mrPolitesCrazies\obj\Debug\netcoreapp2.1\mrPolitesCrazies.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude E7270\source\repos\mrPolitesCrazies\mrPolitesCrazies\obj\Debug\netcoreapp2.1\mrPolitesCrazies.AssemblyInfoInputs.cache
+C:\Users\Dell Latitude E7270\source\repos\mrPolitesCrazies\mrPolitesCrazies\obj\Debug\netcoreapp2.1\mrPolitesCrazies.AssemblyInfo.cs
+C:\Users\Dell Latitude E7270\source\repos\mrPolitesCrazies\mrPolitesCrazies\obj\Debug\netcoreapp2.1\mrPolitesCrazies.dll
+C:\Users\Dell Latitude E7270\source\repos\mrPolitesCrazies\mrPolitesCrazies\obj\Debug\netcoreapp2.1\mrPolitesCrazies.pdb

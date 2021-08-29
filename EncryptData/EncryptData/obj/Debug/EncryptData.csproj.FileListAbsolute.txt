@@ -1,0 +1,7 @@
+C:\Users\Dell Latitude E7270\source\repos\EncryptData\EncryptData\bin\Debug\EncryptData.exe.config
+C:\Users\Dell Latitude E7270\source\repos\EncryptData\EncryptData\bin\Debug\EncryptData.exe
+C:\Users\Dell Latitude E7270\source\repos\EncryptData\EncryptData\bin\Debug\EncryptData.pdb
+C:\Users\Dell Latitude E7270\source\repos\EncryptData\EncryptData\obj\Debug\EncryptData.csprojAssemblyReference.cache
+C:\Users\Dell Latitude E7270\source\repos\EncryptData\EncryptData\obj\Debug\EncryptData.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude E7270\source\repos\EncryptData\EncryptData\obj\Debug\EncryptData.exe
+C:\Users\Dell Latitude E7270\source\repos\EncryptData\EncryptData\obj\Debug\EncryptData.pdb

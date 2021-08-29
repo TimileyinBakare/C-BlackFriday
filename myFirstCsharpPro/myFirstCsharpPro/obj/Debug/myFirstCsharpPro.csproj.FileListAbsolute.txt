@@ -1,0 +1,2 @@
+C:\Users\Dell Latitude E7270\source\repos\myFirstCsharpPro\myFirstCsharpPro\obj\Debug\myFirstCsharpPro.csprojAssemblyReference.cache
+C:\Users\Dell Latitude E7270\source\repos\myFirstCsharpPro\myFirstCsharpPro\obj\Debug\myFirstCsharpPro.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+C:\Users\Dell Latitude E7270\source\repos\refAndOutExample\refAndOutExample\bin\Debug\netcoreapp2.1\refAndOutExample.deps.json
+C:\Users\Dell Latitude E7270\source\repos\refAndOutExample\refAndOutExample\bin\Debug\netcoreapp2.1\refAndOutExample.runtimeconfig.json
+C:\Users\Dell Latitude E7270\source\repos\refAndOutExample\refAndOutExample\bin\Debug\netcoreapp2.1\refAndOutExample.runtimeconfig.dev.json
+C:\Users\Dell Latitude E7270\source\repos\refAndOutExample\refAndOutExample\bin\Debug\netcoreapp2.1\refAndOutExample.dll
+C:\Users\Dell Latitude E7270\source\repos\refAndOutExample\refAndOutExample\bin\Debug\netcoreapp2.1\refAndOutExample.pdb
+C:\Users\Dell Latitude E7270\source\repos\refAndOutExample\refAndOutExample\obj\Debug\netcoreapp2.1\refAndOutExample.csprojAssemblyReference.cache
+C:\Users\Dell Latitude E7270\source\repos\refAndOutExample\refAndOutExample\obj\Debug\netcoreapp2.1\refAndOutExample.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude E7270\source\repos\refAndOutExample\refAndOutExample\obj\Debug\netcoreapp2.1\refAndOutExample.AssemblyInfoInputs.cache
+C:\Users\Dell Latitude E7270\source\repos\refAndOutExample\refAndOutExample\obj\Debug\netcoreapp2.1\refAndOutExample.AssemblyInfo.cs
+C:\Users\Dell Latitude E7270\source\repos\refAndOutExample\refAndOutExample\obj\Debug\netcoreapp2.1\refAndOutExample.dll
+C:\Users\Dell Latitude E7270\source\repos\refAndOutExample\refAndOutExample\obj\Debug\netcoreapp2.1\refAndOutExample.pdb

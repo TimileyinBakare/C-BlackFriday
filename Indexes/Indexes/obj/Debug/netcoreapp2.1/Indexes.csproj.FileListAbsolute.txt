@@ -1,0 +1,11 @@
+C:\Users\Dell Latitude E7270\source\repos\Indexes\Indexes\bin\Debug\netcoreapp2.1\Indexes.deps.json
+C:\Users\Dell Latitude E7270\source\repos\Indexes\Indexes\bin\Debug\netcoreapp2.1\Indexes.runtimeconfig.json
+C:\Users\Dell Latitude E7270\source\repos\Indexes\Indexes\bin\Debug\netcoreapp2.1\Indexes.runtimeconfig.dev.json
+C:\Users\Dell Latitude E7270\source\repos\Indexes\Indexes\bin\Debug\netcoreapp2.1\Indexes.dll
+C:\Users\Dell Latitude E7270\source\repos\Indexes\Indexes\bin\Debug\netcoreapp2.1\Indexes.pdb
+C:\Users\Dell Latitude E7270\source\repos\Indexes\Indexes\obj\Debug\netcoreapp2.1\Indexes.csprojAssemblyReference.cache
+C:\Users\Dell Latitude E7270\source\repos\Indexes\Indexes\obj\Debug\netcoreapp2.1\Indexes.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude E7270\source\repos\Indexes\Indexes\obj\Debug\netcoreapp2.1\Indexes.AssemblyInfoInputs.cache
+C:\Users\Dell Latitude E7270\source\repos\Indexes\Indexes\obj\Debug\netcoreapp2.1\Indexes.AssemblyInfo.cs
+C:\Users\Dell Latitude E7270\source\repos\Indexes\Indexes\obj\Debug\netcoreapp2.1\Indexes.dll
+C:\Users\Dell Latitude E7270\source\repos\Indexes\Indexes\obj\Debug\netcoreapp2.1\Indexes.pdb

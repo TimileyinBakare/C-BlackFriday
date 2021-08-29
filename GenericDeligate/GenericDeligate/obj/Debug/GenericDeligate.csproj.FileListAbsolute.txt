@@ -1,0 +1,7 @@
+C:\Users\Dell Latitude E7270\source\repos\GenericDeligate\GenericDeligate\bin\Debug\GenericDeligate.exe.config
+C:\Users\Dell Latitude E7270\source\repos\GenericDeligate\GenericDeligate\bin\Debug\GenericDeligate.exe
+C:\Users\Dell Latitude E7270\source\repos\GenericDeligate\GenericDeligate\bin\Debug\GenericDeligate.pdb
+C:\Users\Dell Latitude E7270\source\repos\GenericDeligate\GenericDeligate\obj\Debug\GenericDeligate.csprojAssemblyReference.cache
+C:\Users\Dell Latitude E7270\source\repos\GenericDeligate\GenericDeligate\obj\Debug\GenericDeligate.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude E7270\source\repos\GenericDeligate\GenericDeligate\obj\Debug\GenericDeligate.exe
+C:\Users\Dell Latitude E7270\source\repos\GenericDeligate\GenericDeligate\obj\Debug\GenericDeligate.pdb

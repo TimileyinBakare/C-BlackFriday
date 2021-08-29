@@ -1,0 +1,6 @@
+C:\Users\Dell Latitude E7270\source\repos\Namespaces_Session10\clientMachines\bin\Debug\clientMachines.dll
+C:\Users\Dell Latitude E7270\source\repos\Namespaces_Session10\clientMachines\bin\Debug\clientMachines.pdb
+C:\Users\Dell Latitude E7270\source\repos\Namespaces_Session10\clientMachines\obj\Debug\clientMachines.csprojAssemblyReference.cache
+C:\Users\Dell Latitude E7270\source\repos\Namespaces_Session10\clientMachines\obj\Debug\clientMachines.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude E7270\source\repos\Namespaces_Session10\clientMachines\obj\Debug\clientMachines.dll
+C:\Users\Dell Latitude E7270\source\repos\Namespaces_Session10\clientMachines\obj\Debug\clientMachines.pdb

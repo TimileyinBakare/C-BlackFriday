@@ -1,0 +1,11 @@
+C:\Users\Dell Latitude E7270\source\repos\myTutorials\myTutorials\bin\Debug\netcoreapp2.1\myTutorials.deps.json
+C:\Users\Dell Latitude E7270\source\repos\myTutorials\myTutorials\bin\Debug\netcoreapp2.1\myTutorials.runtimeconfig.json
+C:\Users\Dell Latitude E7270\source\repos\myTutorials\myTutorials\bin\Debug\netcoreapp2.1\myTutorials.runtimeconfig.dev.json
+C:\Users\Dell Latitude E7270\source\repos\myTutorials\myTutorials\bin\Debug\netcoreapp2.1\myTutorials.dll
+C:\Users\Dell Latitude E7270\source\repos\myTutorials\myTutorials\bin\Debug\netcoreapp2.1\myTutorials.pdb
+C:\Users\Dell Latitude E7270\source\repos\myTutorials\myTutorials\obj\Debug\netcoreapp2.1\myTutorials.csprojAssemblyReference.cache
+C:\Users\Dell Latitude E7270\source\repos\myTutorials\myTutorials\obj\Debug\netcoreapp2.1\myTutorials.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude E7270\source\repos\myTutorials\myTutorials\obj\Debug\netcoreapp2.1\myTutorials.AssemblyInfoInputs.cache
+C:\Users\Dell Latitude E7270\source\repos\myTutorials\myTutorials\obj\Debug\netcoreapp2.1\myTutorials.AssemblyInfo.cs
+C:\Users\Dell Latitude E7270\source\repos\myTutorials\myTutorials\obj\Debug\netcoreapp2.1\myTutorials.dll
+C:\Users\Dell Latitude E7270\source\repos\myTutorials\myTutorials\obj\Debug\netcoreapp2.1\myTutorials.pdb

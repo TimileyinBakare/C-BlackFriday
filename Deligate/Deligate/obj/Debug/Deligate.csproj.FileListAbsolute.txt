@@ -1,0 +1,7 @@
+C:\Users\Dell Latitude E7270\source\repos\Deligate\Deligate\bin\Debug\Deligate.exe.config
+C:\Users\Dell Latitude E7270\source\repos\Deligate\Deligate\bin\Debug\Deligate.exe
+C:\Users\Dell Latitude E7270\source\repos\Deligate\Deligate\bin\Debug\Deligate.pdb
+C:\Users\Dell Latitude E7270\source\repos\Deligate\Deligate\obj\Debug\Deligate.csprojAssemblyReference.cache
+C:\Users\Dell Latitude E7270\source\repos\Deligate\Deligate\obj\Debug\Deligate.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude E7270\source\repos\Deligate\Deligate\obj\Debug\Deligate.exe
+C:\Users\Dell Latitude E7270\source\repos\Deligate\Deligate\obj\Debug\Deligate.pdb

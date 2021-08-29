@@ -1,0 +1,7 @@
+C:\Users\Dell Latitude E7270\source\repos\Namespaces_Session10\Namespaces_Session10\bin\Debug\Namespaces_Session10.exe.config
+C:\Users\Dell Latitude E7270\source\repos\Namespaces_Session10\Namespaces_Session10\bin\Debug\Namespaces_Session10.exe
+C:\Users\Dell Latitude E7270\source\repos\Namespaces_Session10\Namespaces_Session10\bin\Debug\Namespaces_Session10.pdb
+C:\Users\Dell Latitude E7270\source\repos\Namespaces_Session10\Namespaces_Session10\obj\Debug\Namespaces_Session10.csprojAssemblyReference.cache
+C:\Users\Dell Latitude E7270\source\repos\Namespaces_Session10\Namespaces_Session10\obj\Debug\Namespaces_Session10.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude E7270\source\repos\Namespaces_Session10\Namespaces_Session10\obj\Debug\Namespaces_Session10.exe
+C:\Users\Dell Latitude E7270\source\repos\Namespaces_Session10\Namespaces_Session10\obj\Debug\Namespaces_Session10.pdb

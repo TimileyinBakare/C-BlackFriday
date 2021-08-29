@@ -1,0 +1,7 @@
+C:\Users\Dell Latitude E7270\source\repos\SystemDefineDelegate\SystemDefineDelegate\bin\Debug\SystemDefineDelegate.exe.config
+C:\Users\Dell Latitude E7270\source\repos\SystemDefineDelegate\SystemDefineDelegate\bin\Debug\SystemDefineDelegate.exe
+C:\Users\Dell Latitude E7270\source\repos\SystemDefineDelegate\SystemDefineDelegate\bin\Debug\SystemDefineDelegate.pdb
+C:\Users\Dell Latitude E7270\source\repos\SystemDefineDelegate\SystemDefineDelegate\obj\Debug\SystemDefineDelegate.csprojAssemblyReference.cache
+C:\Users\Dell Latitude E7270\source\repos\SystemDefineDelegate\SystemDefineDelegate\obj\Debug\SystemDefineDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude E7270\source\repos\SystemDefineDelegate\SystemDefineDelegate\obj\Debug\SystemDefineDelegate.exe
+C:\Users\Dell Latitude E7270\source\repos\SystemDefineDelegate\SystemDefineDelegate\obj\Debug\SystemDefineDelegate.pdb

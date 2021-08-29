@@ -1,0 +1,11 @@
+C:\Users\Dell Latitude E7270\source\repos\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment.deps.json
+C:\Users\Dell Latitude E7270\source\repos\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment.runtimeconfig.json
+C:\Users\Dell Latitude E7270\source\repos\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment.runtimeconfig.dev.json
+C:\Users\Dell Latitude E7270\source\repos\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment.dll
+C:\Users\Dell Latitude E7270\source\repos\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment.pdb
+C:\Users\Dell Latitude E7270\source\repos\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.csprojAssemblyReference.cache
+C:\Users\Dell Latitude E7270\source\repos\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude E7270\source\repos\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.AssemblyInfoInputs.cache
+C:\Users\Dell Latitude E7270\source\repos\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.AssemblyInfo.cs
+C:\Users\Dell Latitude E7270\source\repos\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.dll
+C:\Users\Dell Latitude E7270\source\repos\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.pdb

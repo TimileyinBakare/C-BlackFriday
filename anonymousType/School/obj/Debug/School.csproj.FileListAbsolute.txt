@@ -1,0 +1,6 @@
+C:\Users\Dell Latitude E7270\source\repos\anonymousType\School\bin\Debug\School.dll
+C:\Users\Dell Latitude E7270\source\repos\anonymousType\School\bin\Debug\School.pdb
+C:\Users\Dell Latitude E7270\source\repos\anonymousType\School\obj\Debug\School.csprojAssemblyReference.cache
+C:\Users\Dell Latitude E7270\source\repos\anonymousType\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude E7270\source\repos\anonymousType\School\obj\Debug\School.dll
+C:\Users\Dell Latitude E7270\source\repos\anonymousType\School\obj\Debug\School.pdb

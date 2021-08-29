@@ -1,0 +1,11 @@
+C:\Users\Dell Latitude E7270\source\repos\Session7\Session7\bin\Debug\netcoreapp2.1\Session7.deps.json
+C:\Users\Dell Latitude E7270\source\repos\Session7\Session7\bin\Debug\netcoreapp2.1\Session7.runtimeconfig.json
+C:\Users\Dell Latitude E7270\source\repos\Session7\Session7\bin\Debug\netcoreapp2.1\Session7.runtimeconfig.dev.json
+C:\Users\Dell Latitude E7270\source\repos\Session7\Session7\bin\Debug\netcoreapp2.1\Session7.dll
+C:\Users\Dell Latitude E7270\source\repos\Session7\Session7\bin\Debug\netcoreapp2.1\Session7.pdb
+C:\Users\Dell Latitude E7270\source\repos\Session7\Session7\obj\Debug\netcoreapp2.1\Session7.csprojAssemblyReference.cache
+C:\Users\Dell Latitude E7270\source\repos\Session7\Session7\obj\Debug\netcoreapp2.1\Session7.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude E7270\source\repos\Session7\Session7\obj\Debug\netcoreapp2.1\Session7.AssemblyInfoInputs.cache
+C:\Users\Dell Latitude E7270\source\repos\Session7\Session7\obj\Debug\netcoreapp2.1\Session7.AssemblyInfo.cs
+C:\Users\Dell Latitude E7270\source\repos\Session7\Session7\obj\Debug\netcoreapp2.1\Session7.dll
+C:\Users\Dell Latitude E7270\source\repos\Session7\Session7\obj\Debug\netcoreapp2.1\Session7.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dell Latitude E7270\source\repos\anonymousType\anonymousType\bin\Debug\anonymousType.exe.config
+C:\Users\Dell Latitude E7270\source\repos\anonymousType\anonymousType\bin\Debug\anonymousType.exe
+C:\Users\Dell Latitude E7270\source\repos\anonymousType\anonymousType\bin\Debug\anonymousType.pdb
+C:\Users\Dell Latitude E7270\source\repos\anonymousType\anonymousType\bin\Debug\School.dll
+C:\Users\Dell Latitude E7270\source\repos\anonymousType\anonymousType\bin\Debug\School.pdb
+C:\Users\Dell Latitude E7270\source\repos\anonymousType\anonymousType\obj\Debug\anonymousType.csprojAssemblyReference.cache
+C:\Users\Dell Latitude E7270\source\repos\anonymousType\anonymousType\obj\Debug\anonymousType.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude E7270\source\repos\anonymousType\anonymousType\obj\Debug\anonymousType.csproj.CopyComplete
+C:\Users\Dell Latitude E7270\source\repos\anonymousType\anonymousType\obj\Debug\anonymousType.exe
+C:\Users\Dell Latitude E7270\source\repos\anonymousType\anonymousType\obj\Debug\anonymousType.pdb

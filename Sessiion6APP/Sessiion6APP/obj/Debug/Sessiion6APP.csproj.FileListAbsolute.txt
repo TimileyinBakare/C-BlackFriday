@@ -1,0 +1,9 @@
+C:\Users\Dell Latitude E7270\source\repos\Sessiion6APP\Sessiion6APP\bin\Debug\Sessiion6APP.exe.config
+C:\Users\Dell Latitude E7270\source\repos\Sessiion6APP\Sessiion6APP\bin\Debug\Sessiion6APP.exe
+C:\Users\Dell Latitude E7270\source\repos\Sessiion6APP\Sessiion6APP\bin\Debug\Sessiion6APP.pdb
+C:\Users\Dell Latitude E7270\source\repos\Sessiion6APP\Sessiion6APP\obj\Debug\Sessiion6APP.csprojAssemblyReference.cache
+C:\Users\Dell Latitude E7270\source\repos\Sessiion6APP\Sessiion6APP\obj\Debug\Sessiion6APP.myForm.resources
+C:\Users\Dell Latitude E7270\source\repos\Sessiion6APP\Sessiion6APP\obj\Debug\Sessiion6APP.csproj.GenerateResource.cache
+C:\Users\Dell Latitude E7270\source\repos\Sessiion6APP\Sessiion6APP\obj\Debug\Sessiion6APP.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude E7270\source\repos\Sessiion6APP\Sessiion6APP\obj\Debug\Sessiion6APP.exe
+C:\Users\Dell Latitude E7270\source\repos\Sessiion6APP\Sessiion6APP\obj\Debug\Sessiion6APP.pdb
